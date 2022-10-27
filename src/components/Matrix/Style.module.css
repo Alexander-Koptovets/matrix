@@ -1,0 +1,17 @@
+.mean {
+    display: flex;
+    margin-top: 10px;
+}
+
+.add-btn {
+    margin: 10px 10px;
+    height: 35px;
+    border-radius: 10%;
+    background-color: #05f24c;
+    border-color: #05f24c;
+    color: aliceblue;
+}
+
+.add-btn:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,25 @@
+.line {
+    display: flex;
+}
+
+.sum {
+    margin: 0 10px;
+}
+
+.remove-box {
+    display: flex;
+    align-items: center;
+}
+
+.remove-btn {
+    height: 35px;
+    background-color: #fa0505;
+    color: aliceblue;
+    border-color: #fa0505;
+    border-radius: 10%;
+}
+
+.remove-btn:hover {
+    height: 40px;
+    cursor: pointer;
+}
